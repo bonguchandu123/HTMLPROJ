@@ -5,7 +5,9 @@ A simple and responsive **Expense Tracker** built using **HTML**, **CSS**, and *
 <div align="center">
   <br />
   <a href="https://expense-tracker-beta-wine.vercel.app/" target="_blank">
-    <img width="100%" alt="Expense Tracker Preview" src="https://github.com/user-attachments/assets/490fe672-4909-4797-94ec-2b86bd48665c" />
+
+
+<img width="1897" height="869" alt="Image" src="https://github.com/user-attachments/assets/d7ca19fc-7771-4496-a25d-d40f67ba6a42" />
   </a>
   <br />
 </div>
