@@ -58,7 +58,7 @@ git clone https://github.com/bonguchandu123/htmlquizapp.git
 ```
 
 
-##👤 Author
+## 👤 Author
 Chandu Bongu
 
 🔗[GitHub:](https://github.com/bonguchandu123)
