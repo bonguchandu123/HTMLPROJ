@@ -5,7 +5,7 @@ A simple and elegant **Bookmark Manager** web app built using **HTML**, **CSS**,
 
 <div align="center">
   <br />
-  <a href="https://your-bookmark-site-url.vercel.app/" target="_blank">
+  <a href="https://htmlproj-m4p5.vercel.app/" target="_blank">
 
 
  <img width="1903" height="833" alt="Image" src="https://github.com/user-attachments/assets/d10a21cd-9e27-4a00-ade2-19df6149d414" />
@@ -17,7 +17,7 @@ A simple and elegant **Bookmark Manager** web app built using **HTML**, **CSS**,
 
 ## 🌐 Live Demo
 
-🔗 [View Live Project](https://your-bookmark-site-url.vercel.app/) <!-- Replace with your real link -->
+🔗 [View Live Project](https://htmlproj-m4p5.vercel.app/) <!-- Replace with your real link -->
 
 ---
 
